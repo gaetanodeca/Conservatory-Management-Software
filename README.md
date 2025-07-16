@@ -10,7 +10,7 @@ Si vuole realizzare un sistema per la gestione dei corsi di laurea di un conserv
 
 # LOGO
 
-<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/a4f7e6e2-ca41-4aca-b99f-af90076faf82" />
+<img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/a4f7e6e2-ca41-4aca-b99f-af90076faf82" />
 
 ## TECNOLOGIE UTILIZZATE
 - **IDE**: 
