@@ -1,4 +1,4 @@
-<img width="718" height="227" alt="Image" src="https://github.com/user-attachments/assets/7d7976d2-3de4-44ce-a052-e913528392b1" />
+<img width="600" height="100" alt="Image" src="https://github.com/user-attachments/assets/7d7976d2-3de4-44ce-a052-e913528392b1" />
 
 # Conservatory Management Software
 
