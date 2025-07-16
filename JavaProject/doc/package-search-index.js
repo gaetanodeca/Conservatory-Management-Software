@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"boundary"},{"l":"boundary.docenteboundary"},{"l":"boundary.segreteriaboundary"},{"l":"boundary.studenteboundary"},{"l":"control"},{"l":"dao"},{"l":"dto"},{"l":"entity"},{"l":"exceptions"}];updateSearchResults();
