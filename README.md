@@ -1,4 +1,4 @@
-[<img width="600" height="100" alt="Image" src="https://github.com/user-attachments/assets/7d7976d2-3de4-44ce-a052-e913528392b1" />](https://github.com/lightskinF/Mocucino/blob/main/docs/photos/uni_logo.png?raw=true)
+<img width="534" height="141" alt="image" src="https://github.com/user-attachments/assets/1cbae5da-c64f-4287-a90d-d6f685a1939e" />
 
 # Conservatory Management Software
 
