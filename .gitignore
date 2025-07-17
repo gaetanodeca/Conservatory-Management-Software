@@ -1,12 +1,6 @@
 # Compiled class file
 *.class
 
-# Javadoc
-*.html
-
-# MySQL dump
-*.sql
-
 # Log file
 *.log
 
