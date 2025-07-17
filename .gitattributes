@@ -3,3 +3,5 @@ javadoc/** linguist-vendored
 sql/** linguist-vendored
 *.sql linguist-vendored
 *.html linguist-vendored
+*.js linguist-vendored
+*.css linguist-vendored
