@@ -1,0 +1,5 @@
+docs/** linguist-vendored
+javadoc/** linguist-vendored
+sql/** linguist-vendored
+*.sql linguist-vendored
+*.html linguist-vendored
